@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/dbconnect.ts","./src/controllers/taskcontroller.ts","./src/data/createtasktable.ts","./src/middlewares/errorhandler.ts","./src/routes/tasksroute.ts","./src/services/taskservices.ts","./src/types/tasktypes.ts","./src/utils/apierrorresponse.ts"],"version":"5.9.3"}
